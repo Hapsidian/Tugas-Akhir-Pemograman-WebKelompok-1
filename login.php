@@ -54,11 +54,11 @@ if(isset($_POST['login'])) {
                                 <form action="" method="post">
                                     <div class="form-group">
                                         <label class="small mb-1" for="username">Username</label>
-                                        <input class="form-control py-4" name="username" id="username"  />
+                                        <input class="form-control py-4" name="username" id="username" type="text" value="hapsi" placeholder="Masukan username anda" />
                                     </div>
                                     <div class="form-group">
                                         <label class="small mb-1" for="password">Password</label>
-                                        <input class="form-control py-4" id="password" name="password"  />
+                                        <input class="form-control py-4" id="password" name="password" type="password" value="hapsi" placeholder="Masukan password" />
                                     </div>
                                     <div class="form-group">
                                         <div class="custom-control custom-checkbox">
