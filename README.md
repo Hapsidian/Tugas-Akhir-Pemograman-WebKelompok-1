@@ -1,7 +1,9 @@
 ## KELOMPOK 1 PROJECT PERPUSTAKAAN
 ## HAPSI DIANRESMIHADI
 ## WAHYUDIN 
-##TIDAK BISA KELUAR DI COLABORASI
+ mohon maaf pa sebelumnya gabisa cara colabornya baru bisa sekarang.
+ tapi projectnya dikerjakan bareng bareng
+ trimakasih pa
 ## Aplikasi Perpustakaan
 ## DATA ANGGOTA DATA BUKU DAN TRANSSAKSI
 #silahkan download link zip via drive
